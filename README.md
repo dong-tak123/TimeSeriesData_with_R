@@ -1,3 +1,10 @@
 # TimeSeriesData_with_R
 
-##김일석 이글을 본다면 나에게 Rstudio 쓰는법을 알려줘..🙏🙏
+Lecture_Note
+
+- 강의자료 R코드 작성
+- 개념 내용 정리
+
+Exercise
+
+- 실습 R코드
